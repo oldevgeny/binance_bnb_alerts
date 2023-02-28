@@ -1,0 +1,4 @@
+git+ssh://git@github.com/MamontSolutions/Connectors#egg=connectors
+git+ssh://git@github.com/MamontSolutions/AlertLib#egg=alertlib
+SQLAlchemy~=2.0.4
+psycopg2-binary~=2.9.5
